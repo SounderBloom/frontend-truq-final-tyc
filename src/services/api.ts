@@ -3,7 +3,7 @@ import { useAuthStore } from "../stores/auth"
 
 // Origen del backend (sin /api). Se usa también para resolver rutas
 // estáticas como /Uploads/... que el backend expone con UseStaticFiles.
-export const API_ORIGIN = "http://localhost:8080"
+export const API_ORIGIN = "https://api-trueq-final.onrender.com/"
 
 // OJO: no se fija un "Content-Type" por defecto aquí a propósito. axios ya
 // pone "application/json" automáticamente cuando el body es un objeto plano,
