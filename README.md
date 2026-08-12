@@ -1,7 +1,13 @@
-# TrueQ — App web (Vue 3 + Vite)
+# TrueQ Cliente App Web
 
-Cliente web para la API [SounderBloom/api-tienda-web-odi](https://github.com/SounderBloom/api-tienda-web-odi).
-La UI y la navegación siguen el prototipo Stitch (`stitch_trueq_interactive_app_mockup`).
+## AUTORES
+1. Jesús Alejandro Gutierrez Montufar
+1. Miguel Angel Nuñez Gómez
+1. Joseph Abrahan Yáñez García
+Universidad Tecnológica de Tula - Tepeji
+Tecnologías de la Información, Área Desarrollo de Software
+Asesora Prof. Odisey Porras
+2026
 
 ## Desarrollo
 
